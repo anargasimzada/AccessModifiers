@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\bin\Debug\net6.0\AccessModifiers02.04.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\bin\Debug\net6.0\AccessModifiers02.04.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\bin\Debug\net6.0\AccessModifiers02.04.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\bin\Debug\net6.0\AccessModifiers02.04.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\bin\Debug\net6.0\AccessModifiers02.04.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\obj\Debug\net6.0\AccessModifiers02.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\obj\Debug\net6.0\AccessModifiers02.04.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\obj\Debug\net6.0\AccessModifiers02.04.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\obj\Debug\net6.0\AccessModifiers02.04.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\obj\Debug\net6.0\AccessModifiers02.04.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\obj\Debug\net6.0\refint\AccessModifiers02.04.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\obj\Debug\net6.0\AccessModifiers02.04.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\obj\Debug\net6.0\AccessModifiers02.04.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers02.04\AccessModifiers02.04\obj\Debug\net6.0\ref\AccessModifiers02.04.dll
